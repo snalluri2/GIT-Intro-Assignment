@@ -7,3 +7,5 @@ I am from NJIT.(2nd commit)
 This is a sample commit (3rd commit)
 
 All comits with individual branches (4th commit)
+
+this is Anisha (merging to my partner's Repo)
